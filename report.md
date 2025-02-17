@@ -2,4 +2,4 @@ i have initialised a git repository and properly set it up then created  feature
 report.md: This file contains a brief report on what i have done in this assignment.
 index.html site about myself
 made commits and pushed my files to github
-lastly i then deployed my index.html to github pages.
+lastly i  deployed my index.html to github pages.
